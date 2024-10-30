@@ -1,2 +1,3 @@
-# Automatic-Parking---Matlab
+# Automatic Parking - Matlab
 Automatic Parking Simulator in Matlab
+
